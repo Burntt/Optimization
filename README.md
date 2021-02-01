@@ -1,1 +1,3 @@
 # Optimization
+
+Optimization (being referred to not as code optimization but mathematical optimization) empowers practically all modern machine learning and goes well beyond that. After you define a model in machine learning, you tune the model to the data at hand. Mathematically it usually just boils down to finding the minimum of the loss function of the model.  Even if you do not implement optimization algorithms in your daily analyst’s routine, it is a good idea to be well informed of what goes under the hood when you fit your model. This way, you make an informed decision on the parameters of the optimization algorithms.
